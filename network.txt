@@ -1,0 +1,5 @@
+IITP-BS-40
+IOS-16.9.4
+192.168.1.1
+Cisco
+impetus
